@@ -13,8 +13,8 @@ export default {
         'Dark-Purple': 'hsl(292, 42%, 14%)'
       },
       backgroundImage: {
-        'background-mobile': "url('./src/assets/images/background-pattern-mobile.svg')",
-        'background-desktop': "url('./src/assets/images/background-pattern-desktop.svg')"
+        'background-mobile': "url('/src/assets/images/background-pattern-mobile.svg')",
+        'background-desktop': "url('/src/assets/images/background-pattern-desktop.svg')"
       },
       fontFamily: {
         'Work-Sans': ['Work Sans', 'sans-serif']
